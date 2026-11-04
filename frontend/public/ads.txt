@@ -1,0 +1,4 @@
+# ads.txt — Google AdSense
+# After AdSense approval, replace the placeholder below with your real publisher ID.
+# Format: <domain> <publisher-id> DIRECT <account-id>
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

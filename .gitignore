@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build output
+frontend/dist/
+frontend/dist-ssr/
+**/dist/
+
+# Runtime data & downloads (regenerated at runtime)
+backend/data/
+backend/temp/
+backend/*.log
+
+# Local test/artifact output
+frontend/e2e-result.json
+*.local
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+lerna-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
